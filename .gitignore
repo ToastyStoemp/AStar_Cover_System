@@ -1,0 +1,13 @@
+﻿.idea
+Assets/AstarPathfindingProject
+Assets/_TerrainAutoUpgrade
+Library
+Temp
+PackageToolsEditor.csproj
+AstarPathfindingProject.csproj
+AstarPathfindingProjectEditor.csproj
+obj
+Logs
+Assets/_TerrainAutoUpgrade.meta
+Assets/Plugins/Editor/JetBrains
+Assets/Plugins/Editor/JetBrains.meta
